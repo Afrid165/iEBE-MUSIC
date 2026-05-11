@@ -1,5 +1,5 @@
 # Systematic Measurements of Identified Particle Spectra in pp, d+Au and Au+Au Collisions from STAR
-[paper](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.96.044904)
+[paper](https://inspirehep.net/literature/1510593)
 
 [data](https://www.hepdata.net/record/ins1510593)
 
@@ -8,6 +8,7 @@
 
 
 ## Notes
+The data in hepdata is in html form, csv file not available.
 
 
 
