@@ -5,7 +5,7 @@
 
 ## Kinematic cuts
 1. Full azimuthal angle $\phi$ from 0 to $2\pi$ coverage.
-2. $y$ < 0.1
+2. $|y|$ < 0.1
 3. Minimum $p_T$ 0.2 GeV.
 
 
